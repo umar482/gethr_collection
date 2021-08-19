@@ -25,10 +25,9 @@
 * **currentlyPlayingSongs-dev**
 * **created-playlists-dev**
 * **campaigns-dev**
-*
-*
+
+
 ## OverAll Tables
-*
 * **table-item-tracker-dev**
 * **streamers-test**
 * **streamers-prod**
@@ -71,10 +70,10 @@
 * **campaigns-dev**
 * **artistMonthlyListeners**
 * **artist-monthly-listeners-dev**
-*
-*
+
+
 # region=us-east-1
-*
+
 * **Stream**
 * **gethr_streamer_songPools_dev**
 * **Gethr_User_Data**
